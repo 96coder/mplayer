@@ -48,7 +48,7 @@ class BarStyle {
   /// The **[width]** and **[height]** are the Size that the VolumeBar will have
   BarStyle.volume({
     this.width = 5,
-    this.height = 120,
+    this.height = 100,
     Color? color,
     Color? background,
     BorderRadius? borderRadius,
